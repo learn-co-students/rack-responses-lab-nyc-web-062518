@@ -1,0 +1,1 @@
+print Time.now.to_a[2]
